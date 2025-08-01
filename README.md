@@ -64,9 +64,10 @@ groco/
 | Home Page                     | Products Section                      | Cart & Login Form             | Footer             |
 | ----------------------------- | ------------------------------------- | ----------------------------- |--------------------|
 | ![Home](groco_land.png)       | ![Featuress](2.png)                   | ![Review](3.png)              | ![Footer](4.png) |
-|Mobile View|
-| -------------------
-| ![Responsive](5.png) 
+| Mobile View                   | Tab View                              |
+| ----------------------------- | --------------------------------------|     
+| ![Responsive](5.png)          |  ![Responsive](6.png)                 |
+
 
 ---
 
