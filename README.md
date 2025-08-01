@@ -74,4 +74,3 @@ This project is for **educational/demo purposes** only and is not licensed for c
 
 ---
 
-Let me know if you'd like a deployment section or GitHub Pages setup instructions added too.
